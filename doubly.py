@@ -20,3 +20,4 @@ removeDouble(Node node)
   # they are important in low level memory management. Heap management.
   # applications in Windows
   # Photo viewers, where they have access to previous and next images
+  # blockchains( BitCoin ). Blockchains are linked lists where blocks are cryptographically linked together.
